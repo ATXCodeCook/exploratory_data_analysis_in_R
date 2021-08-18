@@ -1,4 +1,4 @@
-## Yearly and Quarterly Trends in U.S. States' Deaths (2014-2021)
+## Yearly and Quarterly Trends in U.S. States' Deaths (2014-2019)
 
 ### Introduction and Objectives
 
