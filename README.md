@@ -1,5 +1,5 @@
 ## Yearly and Quarterly Trends in U.S. States' Deaths (2014-2019)
-#### See [Patrick_Cook_R_EDA.md](https://github.com/ATXCodeCook/exploratory_data_analysis_in_R/blob/main/Patrick_Cook_R_EDA.md) for full project output.
+#### Note: Written in R-Markdown. See [Patrick_Cook_R_EDA.md](https://github.com/ATXCodeCook/exploratory_data_analysis_in_R/blob/main/Patrick_Cook_R_EDA.md) for full project output.
 
 ### Introduction and Objectives
 
